@@ -24,29 +24,3 @@
             React
             React Native
             Expo
-            
-        ℹ️ Como Usar
-            Para clonar e executar este aplicativo, você precisará do Git, Node.js + Yarn instalado no seu computador.
-
-
-            Na linha de comando na folder especifica:
-            Instalar  API
-            # Clone this repository
-            $ git clone https://github.com/DanielObara/NLW-1.0
-
-            # Go into the repository
-            $ cd NLW-1.0/backend
-
-            # Install dependencies
-            $ yarn install
-
-            # Run Migrates
-            $ yarn knex:migrate
-
-            # Run Seeds
-            $ yarn knex:seed
-
-            # Start server
-            $ yarn dev
-
-            # running on port 3333
